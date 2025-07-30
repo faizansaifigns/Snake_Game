@@ -4,8 +4,7 @@ A classic Snake game built using **HTML**, **CSS**, and **JavaScript**. The game
 
 ## 🔗 Live Demo
 
-👉 [Play the Game]([snakegamebyfaizan.netlify.app](https://688a7b9213409991b0be3932--snakegamebyfaizan.netlify.app/))  
-![Snake Game Screenshot](./screenshot.png)
+👉 [Play the Game](https://688a7b9213409991b0be3932--snakegamebyfaizan.netlify.app/)
 
 ## 🎮 Features
 
@@ -33,8 +32,3 @@ A classic Snake game built using **HTML**, **CSS**, and **JavaScript**. The game
 git clone https://github.com/yourusername/snake-game.git
 cd snake-game
 open index.html
-snake-game/
-├── index.html       # Main HTML file
-├── style.css        # Styling
-├── script.js        # Game logic
-└── screenshot.png   # Optional image for README
