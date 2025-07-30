@@ -1,0 +1,40 @@
+/* style.css */
+
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  margin: 20px auto;
+  border: 2px solid white;
+  background: #222;
+  box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
+}
+
+#score {
+  font-size: 20px;
+  margin-top: 10px;
+  color: #0f0;
+}
+
+#restartBtn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: lime;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background 0.3s;
+}
+
+#restartBtn:hover {
+  background: #00cc00;
+}
