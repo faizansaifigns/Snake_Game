@@ -4,7 +4,7 @@ A classic Snake game built using **HTML**, **CSS**, and **JavaScript**. The game
 
 ## 🔗 Live Demo
 
-👉 [Play the Game](snakegamebyfaizan.netlify.app)  
+👉 [Play the Game]([snakegamebyfaizan.netlify.app](https://688a7b9213409991b0be3932--snakegamebyfaizan.netlify.app/))  
 ![Snake Game Screenshot](./screenshot.png)
 
 ## 🎮 Features
