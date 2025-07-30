@@ -21,7 +21,7 @@ A classic Snake game built using **HTML**, **CSS**, and **JavaScript**. The game
 
 ![Snake Game Screenshot](./screenshot.png)
 
-> Add your `screenshot.png` in the root folder or update this path accordingly.
+
 
 ## 🚀 How to Run
 
