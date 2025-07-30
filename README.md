@@ -5,7 +5,7 @@ A classic Snake game built using **HTML**, **CSS**, and **JavaScript**. The game
 ## 🔗 Live Demo
 
 👉 [Play the Game](https://yourusername.github.io/snake-game/)  
-> Replace the above link with your actual GitHub Pages link.
+![Snake Game Screenshot](./screenshot.png)
 
 ## 🎮 Features
 
